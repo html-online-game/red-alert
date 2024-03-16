@@ -1,25 +1,31 @@
-### chronodivide assets (网页版红警2镜像)
-This project is led by [chronodivide-downloader](https://github.com/webra2/chronodivide-downloader) Automatically download and generate a web version of the Red Alert2 package from  [chronodivide](https://game.chronodivide.com/) , which can support one click deployment to Cloud Server.
+# Red Alert 2
 
-这个项目由  [chronodivide-downloader](https://github.com/webra2/chronodivide-downloader) 自动从网页版红警官网 [chronodivide](https://game.chronodivide.com/) 下载并生成网页版红警安装包，可以支持一键部署到腾讯云等环境。
+![Red Alert2](images/image1.png)
 
-注意: 部署以后的版本可以使用单机模式(演示模式选择轻松的电脑).
+This project aims to recreate the experience of playing the classic real-time strategy game Red Alert 2 in an online format. It adopts a learning and research-oriented approach by conducting reverse engineering to obtain images of the code required for the online version.
 
-### 一键部署到腾讯云
-[![](https://cloudbase.net/deploy.svg)](https://console.cloud.tencent.com/webify/new?tpl=https%3A%2F%2Fgithub.com%2Fwebra2%2Fwebra2.github.io&dir=%2F&reponame=webra2)
+### How To Play?
 
-目前使用的mix文件在config.ini里配置的[云红警](https://yunhongjing.com)的站点，可以从这个项目的历史提交里找到所有mix文件，然后改成自己的站点。
+- **Accessing the Game:** Players can access the game through [this URL](https://html-online-game.github.io/red-alert2/) using the Chrome browser.
 
-### Credit
+- **Downloading the Game:** Upon first play, users need to download the game file. They can then select the downloaded file, which will take a few minutes to load.
 
-First of all, thanks EL President, the creator of Red Alert 2 running on the webpage. He Created great project Chronodivide.
+![Downloading the Game](images/image2.png)
 
-In most cases, you only need to access [chronodivide](https://game.chronodivide.com/)  to play. 
+- **Demo Mode:** The game offers a demo mode with easy enemies for players to practice and get acquainted with the gameplay.
 
-If you enjoy the game and would like to offer your support, please consider making a [donation](https://chronodivide.com/#donate)
+![Demo Mode](images/image3.png)
 
-### Demo 
-[play](https://webra2.github.io)
+- **Controls:** Players can control the game using both mouse and keyboard inputs.
 
+![Game Controls](images/image4.png)
 
-### The project is still under construction
+### Disclaimers
+
+The creator of this description explicitly states that they have not participated in the project and do not assume any risk or responsibility for its usage. Users should be aware of this disclaimer before engaging with the game.
+
+### Original Project and Author
+
+- **Original Project:** The original project repository can be found at [webra2.github.io](https://github.com/webra2/webra2.github.io).
+
+- **Original Author:** The project was created by [webra2](https://github.com/webra2).
